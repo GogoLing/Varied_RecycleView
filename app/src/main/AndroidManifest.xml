@@ -16,7 +16,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Recycle1Activity"/>
+        <activity android:name=".Recycle1Activity"
+            android:screenOrientation="portrait"
+            />
+        <activity android:name=".Recycle2Activity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Recycle3Activity"
+            android:screenOrientation="portrait"/>
     </application>
 
 </manifest>

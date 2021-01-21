@@ -40,44 +40,44 @@ public class Recycle1Activity extends Activity {
         knightErrant3.setRank(3);
 
         KnightErrant knightErrant4=new KnightErrant();
-        knightErrant4.setName("木岛主");
-        knightErrant4.setSect("侠客岛");
+        knightErrant4.setName("妙谛大师");
+        knightErrant4.setSect("少林");
         knightErrant4.setRank(4);
 
+
         KnightErrant knightErrant5=new KnightErrant();
-        knightErrant5.setName("妙谛大师");
-        knightErrant5.setSect("少林");
+        knightErrant5.setName("赏善");
+        knightErrant5.setSect("侠客岛");
         knightErrant5.setRank(5);
 
-
         KnightErrant knightErrant6=new KnightErrant();
-        knightErrant6.setName("赏善");
+        knightErrant6.setName("罚恶");
         knightErrant6.setSect("侠客岛");
         knightErrant6.setRank(6);
 
         KnightErrant knightErrant7=new KnightErrant();
-        knightErrant7.setName("罚恶");
-        knightErrant7.setSect("侠客岛");
+        knightErrant7.setName("谢烟客");
+        knightErrant7.setSect("未知");
         knightErrant7.setRank(7);
 
         KnightErrant knightErrant8=new KnightErrant();
-        knightErrant8.setName("谢烟客");
-        knightErrant8.setSect("未知");
+        knightErrant8.setName("白自在");
+        knightErrant8.setSect("雪山派");
         knightErrant8.setRank(8);
 
         KnightErrant knightErrant9=new KnightErrant();
-        knightErrant9.setName("白自在");
-        knightErrant9.setSect("雪山派");
+        knightErrant9.setName("愚茶道长");
+        knightErrant9.setSect("武当派");
         knightErrant9.setRank(9);
 
         KnightErrant knightErrant10=new KnightErrant();
-        knightErrant10.setName("愚茶道长");
-        knightErrant10.setSect("武当派");
+        knightErrant10.setName("天虚道长");
+        knightErrant10.setSect("上清观");
         knightErrant10.setRank(10);
 
         KnightErrant knightErrant11=new KnightErrant();
-        knightErrant11.setName("天虚道长");
-        knightErrant11.setSect("上清观");
+        knightErrant11.setName("贝海石");
+        knightErrant11.setSect("长乐帮");
         knightErrant11.setRank(11);
 
         knightErrantList.add(knightErrant1);
